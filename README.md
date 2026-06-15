@@ -101,7 +101,7 @@ Ensure you have Python 3.9+ installed on your system.
 ### 1. Clone & Set Up Directory
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/henry-n2/DroneProject.git
 cd DroneProject
 ```
 
